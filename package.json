@@ -1,7 +1,7 @@
 {
   "name": "multi-file-open",
   "main": "./lib/multi-file-open",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "selected files open on tree-view",
   "activationCommands": {
     "atom-workspace": "multi-file-open:open"
