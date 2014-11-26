@@ -6,7 +6,7 @@
   "activationCommands": {
     "atom-workspace": "multi-file-open:open"
   },
-  "repository": "https://github.com/atom/multi-file-open",
+  "repository": "https://github.com/hikaruworld/atom-multi-file-open",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
